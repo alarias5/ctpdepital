@@ -1,0 +1,165 @@
+.lista-admin{
+    list-style: none;
+}
+
+.color1 .li{
+    text-decoration: none;
+}
+/* Inicio quienes somos*/
+
+.ico-type {
+    color: #12c3ac;
+    font-size: 50px;
+    line-height: 40px;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 34px;
+}
+
+#frr-our-services {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+@media (min-width: 1200px)
+.container {
+    width: 1152px;
+}
+
+@media only screen and (min-width: 768px)
+.hidden.visible {
+    opacity: 1;
+}
+h4.section-title {
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 24px;
+    color: #3e434a;
+    font-weight: normal;
+    line-height: 24px;
+    margin-top: 35px;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+}
+
+h3.entry-title {
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 24px;
+    color: #3e434a;
+    font-weight: normal;
+    line-height: 24px;
+    margin-top: 35px;
+    margin-bottom: 12px;
+  
+}
+.letter-size-18 {
+    font-size: 20px !important;
+}
+
+/* fin quienes somos*/
+
+/* Inicio Footer*/
+
+.left-widget-wrap {
+    margin-top: 10px;
+} 
+.footer-sidebar a {
+    color: #8c989e;
+     margin: 0;
+    padding: 0;
+    margin-top: 30px
+}
+
+.footer-sidebar {
+    color: #8c989e;
+    font-size: 14px;
+    line-height: 21px;
+}
+.footer-sidebar p {
+    margin: 0;
+    padding: 0;
+    margin-top: 30px
+}
+
+
+}
+.letter-size-16 {
+    font-size: 16px !important;
+    line-height: 28px;
+}
+.letter {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.text-center {
+    text-align: center;
+}
+
+.widget {
+    margin: 0 0 1.5em
+}
+
+@media (min-width: 1200px)
+.col-lg-3 {
+    width: 25%;
+}
+@media (min-width: 1200px)
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: left;
+}
+.row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.footer-tweet li {
+    display: inline-block;
+    margin-right: 22px;
+}
+.footer-tweet {
+    margin: 15px 0 0 0;
+    padding: 0;
+}
+.site-footer{
+    background: #3c424f;
+    padding: 30px 0;
+    color: #8c989e;
+}
+
+/* Inicio Footer*/
+
+/* imagenes del header */
+.left{
+    float: inherit;
+}
+.right{
+float: right;
+}
+.logo img:hover {
+    opacity: 1 !important;
+}
+
+.logo .img-responsive {
+    margin: 0 auto;
+    
+   width: 30em;
+   
+}
+img:hover {
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+a img {
+    border: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+}
