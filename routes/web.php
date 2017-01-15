@@ -23,3 +23,7 @@ return "holatotales";
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+
+Route::get('/adm', function(){
+	return view('admin.index');
+});
